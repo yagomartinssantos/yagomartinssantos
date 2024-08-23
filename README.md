@@ -1,2 +1,2 @@
 ### Hello! How are you?
-I'am a begineer in programing.
+I'm a begineer in programing.
